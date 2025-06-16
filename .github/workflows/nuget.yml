@@ -1,0 +1,36 @@
+name: Publish NuGet Package
+
+on:
+  push:
+    tags:
+      - 'v*.*.*' # Trigger on version tags like v1.0.0
+  workflow_dispatch:
+
+env:
+  project_path: 'PaymentSystemApp.Core/PaymentSystemApp.Core.csproj'
+
+jobs:
+  build-and-deploy:
+    name: Build & Deploy to NuGet
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v3
+
+    - name: 🛠️ Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '9.0.x'
+
+    - name: 🔄 Restore dependencies
+      run: dotnet restore ${{ env.project_path }}
+
+    - name: 🧱 Build project
+      run: dotnet build ${{ env.project_path }} --no-restore --configuration Release
+
+    - name: 📦 Pack NuGet package
+      run: dotnet pack ${{ env.project_path }} --no-build --configuration Release --include-symbols --output ./nupkg
+
+    - name: 🚀 Push NuGet package
+      run: dotnet nuget push ./nupkg/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json
