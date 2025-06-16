@@ -1,0 +1,28 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\refint\PaymentSystemApp.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\ref\PaymentSystemApp.dll
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.exe
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.deps.json
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.runtimeconfig.json
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.dll
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\bin\Debug\net9.0\PaymentSystemApp.pdb
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.AssemblyInfoInputs.cache
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.AssemblyInfo.cs
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.csproj.CoreCompileInputs.cache
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.dll
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\refint\PaymentSystemApp.dll
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.pdb
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\PaymentSystemApp.genruntimeconfig.cache
+D:\Backend\Codes\Csharp\projects-Tasks\Systems\EcommerceSystem\Parts of System\Payment System\PaymentSystemApp\PaymentSystemApp\obj\Debug\net9.0\ref\PaymentSystemApp.dll

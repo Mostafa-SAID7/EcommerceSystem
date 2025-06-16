@@ -1,0 +1,20 @@
+[
+  {
+    "Username": "admin",
+    "Password": "1234",
+    "Balance": 1000,
+    "IsAdmin": true
+  },
+  {
+    "Username": "memo",
+    "Password": "1234",
+    "Balance": 1000,
+    "IsAdmin": false
+  },
+  {
+    "Username": "memo1",
+    "Password": "1234",
+    "Balance": 1000,
+    "IsAdmin": false
+  }
+]

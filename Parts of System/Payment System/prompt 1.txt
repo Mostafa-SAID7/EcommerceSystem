@@ -1,0 +1,33 @@
+Build a secure payment system management console app in C# that supports:
+
+save on some principles like : cleancode , solid priciples , data stracture , design pattern
+
+User registration with email verification (code expires in 5 minutes)
+
+Password reset via email, with 3 failed attempts causing a 10-minute lockout
+
+Role-based users (e.g., admin, staff)
+
+AES or ProtectedData-encrypted lockout tracking (attempts.dat)
+
+Encrypted persistent user storage in users.json
+
+Email notifications via Gmail SMTP (configurable credentials)
+
+Also include:
+
+A modular architecture using Models, Services, and Program.cs
+
+A loop-based CLI menu for login, registration, reset
+
+Support for exporting user data
+
+An AuditLog system to track all resets and logins
+
+Stretch goals:
+
+A WPF dashboard for managing users (search, filter, export)
+
+Add JSON or XML config loading
+
+Optional: log failed login attempts and IPs for audit
